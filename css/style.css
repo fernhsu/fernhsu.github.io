@@ -343,7 +343,7 @@ li[class^="quickli"]:hover .quickhoverbox{
     margin-top: 140px;
     background-image:url('../img/bg-none.gif');
     background-repeat:repeat;
-    background-color:#999;
+    background-color:#fff;
 }
 /* Style the tab */
 .tab-outter{
