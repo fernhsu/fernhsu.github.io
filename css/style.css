@@ -51,7 +51,7 @@
     cursor: pointer;
     height: 55px;
     padding: 18px 22px 22px 20px;
-    background: #2e9692;
+    background: #88bd7b;
     color: #fff;
 }
 
@@ -63,7 +63,7 @@ li[class^="navli"]:hover .hoverbox{
     z-index: 999;
     display: block;
     width: 100%;
-    background: #2e9692;
+    background: #88bd7b;
     position: absolute;
     color: #fff;
     top: 140px;
