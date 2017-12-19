@@ -29,7 +29,9 @@
 .mainmenu{
     background: #4c6e4f;
     height: 55px;
-    
+    -webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
 }
 .list{
     width: 1000px;
@@ -341,9 +343,7 @@ li[class^="quickli"]:hover .quickhoverbox{
     width: 100%; 
     margin: 0;
     margin-top: 140px;
-    background-image:url('../img/bg-none.gif');
-    background-repeat:repeat;
-    background-color:#fff;
+    
 }
 /* Style the tab */
 .tab-outter{
