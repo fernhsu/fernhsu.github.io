@@ -8,7 +8,7 @@
     list-style: none;
 }
 .nav{
-    background: #f5f5f5;
+    background: #fff;
     width: 100%;
     position: fixed;
     top: 0;
@@ -53,7 +53,7 @@ box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
     cursor: pointer;
     height: 55px;
     padding: 18px 20px 22px 20px;
-    background: #328300;
+    background: #599a30;
     color: #fff;
 }
 
@@ -65,7 +65,7 @@ li[class^="navli"]:hover .hoverbox{
     z-index: 999;
     display: block;
     width: 100%;
-    background: #328300;
+    background: #599a30;
     position: absolute;
     color: #fff;
     top: 140px;
@@ -152,7 +152,7 @@ li[class^="navli"]:hover .hoverbox{
 .list>li::before{
     color: #fff;
     position: relative;
-    left: -21px;
+    left: -17px;
     content: "▪";
 }
 .list>li:first-child::before{
