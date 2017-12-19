@@ -29,9 +29,9 @@
 .mainmenu{
     background: #82c15b;
     height: 55px;
-    -webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
--moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.4);;
+-moz-box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.4);
+box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.4);
 }
 .list{
     width: 1000px;
