@@ -4,7 +4,7 @@
     padding: 0;
     font-family:"WenQuanYi Zen Hei","文泉驛正黑","Heiti TC","黑體-繁","LiHei Pro","儷黑 Pro","Droid Sans","Microsoft JhengHei","微軟正黑體";
     font-size: 15px;
-    color: #82c15b;
+    color: #4c6e4f;
     list-style: none;
 }
 .nav{
@@ -27,7 +27,7 @@
     -webkit-animation-duration:0.8s;
 }
 .mainmenu{
-    background: #82c15b;
+    background: #4c6e4f;
     height: 55px;
     -webkit-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
 -moz-box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
@@ -574,7 +574,7 @@ div.tab button.active {
 /*======footer*/
 .footer{
     width: 100%;
-    background-color: #82c15b;
+    background-color: #4c6e4f;
     display: block;
     padding: 20px 0px;
 }
