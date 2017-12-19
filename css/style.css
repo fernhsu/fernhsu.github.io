@@ -319,6 +319,7 @@ li[class^="quickli"]:hover .quickhoverbox{
 
 .scrollnav .quickmenu {
     top: 46px;
+    padding-right: 15px;
 }
 .scrollnav .quickul{
     height: 60px;
