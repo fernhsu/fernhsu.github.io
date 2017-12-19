@@ -52,8 +52,8 @@ box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
 .list>li:hover{
     cursor: pointer;
     height: 55px;
-    padding: 18px 22px 22px 20px;
-    background: #88bd7b;
+    padding: 18px 20px 22px 20px;
+    background: #328300;
     color: #fff;
 }
 
@@ -65,7 +65,7 @@ li[class^="navli"]:hover .hoverbox{
     z-index: 999;
     display: block;
     width: 100%;
-    background: #88bd7b;
+    background: #328300;
     position: absolute;
     color: #fff;
     top: 140px;
