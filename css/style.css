@@ -510,7 +510,7 @@ div.tab button.active {
     width: 100%;
     padding-top: 30px;
     padding-bottom: 30px;
-    
+    background-image: url(../img/texure-1.jpg);
 }
 .secondsection{
     width: 1000px;
