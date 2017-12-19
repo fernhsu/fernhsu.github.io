@@ -4,7 +4,7 @@
     padding: 0;
     font-family:"WenQuanYi Zen Hei","文泉驛正黑","Heiti TC","黑體-繁","LiHei Pro","儷黑 Pro","Droid Sans","Microsoft JhengHei","微軟正黑體";
     font-size: 15px;
-    color: #4c5d6e;
+    color: #4c6e4f;
     list-style: none;
 }
 .nav{
@@ -27,7 +27,7 @@
     -webkit-animation-duration:0.8s;
 }
 .mainmenu{
-    background: #4c5d6e;
+    background: #4c6e4f;
     height: 55px;
     
 }
@@ -88,7 +88,7 @@ li[class^="navli"]:hover .hoverbox{
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
-    background-color: #E86845;
+    background-color: #E86345;
 }
 .menu-sort a,.menu-sort p{
     display: inline-block;
@@ -170,7 +170,7 @@ li[class^="navli"]:hover .hoverbox{
     -webkit-animation-duration:1.2s;
 }
 .upmenu a{
-    color: #2e9692;
+    color: #2e9692;/*color:#999;*/
 }
 .uplist>li{
     padding: 8px 10px 8px 11px;
@@ -212,7 +212,7 @@ li[class^="navli"]:hover .hoverbox{
     
 }
 .quickul{
-    background: #E86845;
+    background: #E86345;
     height: 84px;
     width: 320px;
     border-radius: 5px;
@@ -255,7 +255,7 @@ li[class^="quickli"]:active .quickhoverbox {
     z-index: 13;
     display: block;
     width: 320px;
-    background: #FF9F56;
+    background: #FFa857;
     position: absolute;
     color: #fff;
     top: 80px;
@@ -266,7 +266,7 @@ li[class^="quickli"]:hover .quickhoverbox{
     z-index: 13;
     display: block;
     width: 320px;
-    background: #FF9F56;
+    background: #FFa857;
     position: absolute;
     color: #fff;
     top: 80px;
@@ -375,14 +375,14 @@ div.tabcontent img{
 }
 .pic-description h2::before {
     content: '';
-    border-left: 2px solid #FF9F56;
+    border-left: 2px solid #FFa857;
     position: relative;
     z-index: 15;
     left: -5px;
     margin-left: -3px;
 }
 .pic-description a{
-    color: #E86845;
+    color: #E86345;
 }
 
 /* Style the buttons inside the tab */
@@ -401,12 +401,12 @@ div.tab button {
 
 /* Change background color of buttons on hover */
 div.tab button:hover {
-    background-color: #FF9F56;
+    background-color: #FFa857;
 }
 
 /* Create an active/current tablink class */
 div.tab button.active {
-    background-color: #E86845;
+    background-color: #E86345;
 }
 
 /* Style the tab content */
@@ -568,7 +568,7 @@ div.tab button.active {
 /*======footer*/
 .footer{
     width: 100%;
-    background-color: #4c5d6e;
+    background-color: #4c6e4f;
     display: block;
     padding: 20px 0px;
 }
@@ -617,7 +617,7 @@ div.tab button.active {
 
 .sitemap-title{
     background-color: #E2DECE;
-    color: #E86845;
+    color: #E86345;
     height: 26px;
     padding: 3px 12px;
     margin-top: 10px;
@@ -686,7 +686,7 @@ div.tab button.active {
 
 /*======樣式*/
 .search-box{
-    border: 1px solid #E86845;
+    border: 1px solid #E86345;
     background-color: #fff;
     border-radius: 4px;
     display: inline-block;
@@ -711,7 +711,7 @@ div.tab button.active {
     
 }
 select{
-    border: 1px solid #E86845;
+    border: 1px solid #E86345;
     background-color: #fff;
     border-radius: 4px;
     display: inline-block;
