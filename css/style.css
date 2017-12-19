@@ -150,7 +150,7 @@ li[class^="navli"]:hover .hoverbox{
 .list>li::before{
     color: #fff;
     position: relative;
-    left: -22px;
+    left: -21px;
     content: "▪";
 }
 .list>li:first-child::before{
@@ -307,11 +307,11 @@ li[class^="quickli"]:hover .quickhoverbox{
 }
 .scrollnav .mainmenu .list>li{
     height: 40px;
-    padding: 10px 22px 10px 20px;
+    padding: 10px 20px 10px 20px;
 }
 .scrollnav .mainmenu .list>li:hover{
     height: 40px;
-    padding: 10px 22px 10px 20px;
+    padding: 10px 20px 10px 20px;
 }
 .scrollnav .mainmenu li[class^="navli"]:hover .hoverbox {
     top: 97px;
@@ -660,14 +660,16 @@ div.tab button.active {
     width: 1em;
     height: 1em;
     vertical-align: baseline;
-    content:url(../img/ic-folded.svg);
+/*    content:url(../img/ic-folded.svg);*/
+    content: '▲';
 }
 .unfoldedb::before{
     display: inline-block;
     width: 1em;
     height: 1em;
     vertical-align: baseline;
-    content:url(../img/ic-unfolded.svg); 
+/*    content:url(../img/ic-unfolded.svg); */
+    content: '▼';
 }
 
 .unfoldedb:active::before{
