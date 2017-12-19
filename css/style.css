@@ -90,7 +90,7 @@ li[class^="navli"]:hover .hoverbox{
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
-    background-color: #E86345;
+    background-color: #F0591F;
 }
 .menu-sort a,.menu-sort p{
     display: inline-block;
@@ -217,7 +217,7 @@ li[class^="navli"]:hover .hoverbox{
     
 }
 .quickul{
-    background: #E86345;
+    background: #F0591F;
     height: 84px;
     width: 320px;
     margin-right: 15px;
@@ -388,7 +388,7 @@ div.tabcontent img{
     margin-left: -3px;
 }
 .pic-description a{
-    color: #E86345;
+    color: #F0591F;
 }
 
 /* Style the buttons inside the tab */
@@ -412,7 +412,7 @@ div.tab button:hover {
 
 /* Create an active/current tablink class */
 div.tab button.active {
-    background-color: #E86345;
+    background-color: #F0591F;
 }
 
 /* Style the tab content */
@@ -623,7 +623,7 @@ div.tab button.active {
 
 .sitemap-title{
     background-color: #E2DECE;
-    color: #E86345;
+    color: #F0591F;
     height: 26px;
     padding: 3px 12px;
     margin-top: 10px;
@@ -694,7 +694,7 @@ div.tab button.active {
 
 /*======樣式*/
 .search-box{
-    border: 1px solid #E86345;
+    border: 1px solid #F0591F;
     background-color: #fff;
     border-radius: 4px;
     display: inline-block;
@@ -719,7 +719,7 @@ div.tab button.active {
     
 }
 select{
-    border: 1px solid #E86345;
+    border: 1px solid #F0591F;
     background-color: #fff;
     border-radius: 4px;
     display: inline-block;
